@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		03276E721AE85DEB0053EF4D /* popupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03276E711AE85DEB0053EF4D /* popupViewController.swift */; };
 		03B933C61ADB74C300B0DA11 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03B933C51ADB74C300B0DA11 /* AppDelegate.swift */; };
 		03B933C81ADB74C300B0DA11 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03B933C71ADB74C300B0DA11 /* ViewController.swift */; };
 		03B933CB1ADB74C300B0DA11 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 03B933C91ADB74C300B0DA11 /* Main.storyboard */; };
@@ -26,6 +27,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		03276E711AE85DEB0053EF4D /* popupViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = popupViewController.swift; sourceTree = "<group>"; };
 		03B933C01ADB74C300B0DA11 /* Tips.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tips.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		03B933C41ADB74C300B0DA11 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		03B933C51ADB74C300B0DA11 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -80,6 +82,7 @@
 				03B933C51ADB74C300B0DA11 /* AppDelegate.swift */,
 				03B933C71ADB74C300B0DA11 /* ViewController.swift */,
 				03B933C91ADB74C300B0DA11 /* Main.storyboard */,
+				03276E711AE85DEB0053EF4D /* popupViewController.swift */,
 				03B933CC1ADB74C300B0DA11 /* Images.xcassets */,
 				03B933CE1ADB74C300B0DA11 /* LaunchScreen.xib */,
 				03B933C31ADB74C300B0DA11 /* Supporting Files */,
@@ -213,6 +216,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				03B933C81ADB74C300B0DA11 /* ViewController.swift in Sources */,
+				03276E721AE85DEB0053EF4D /* popupViewController.swift in Sources */,
 				03B933C61ADB74C300B0DA11 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -411,6 +415,7 @@
 				03B933E11ADB74C300B0DA11 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		03B933E21ADB74C300B0DA11 /* Build configuration list for PBXNativeTarget "TipsTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +424,7 @@
 				03B933E41ADB74C300B0DA11 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
