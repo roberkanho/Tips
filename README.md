@@ -18,6 +18,10 @@ Video Walkthrough
 <recording9.gif>
 
 
+
+
+
+
 **Last Time**
 
 This is Tips demo application for calculating tips at restaurants.
