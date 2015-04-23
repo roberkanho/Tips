@@ -46,7 +46,6 @@ Completed user stories:
 Required User Stories:
 
 Video Walkthrough
+![Video Walkthrough](recording5.gif)
+![Video Walkthrough](recording6.gif)
 
-Updated App with some optional features:
-
-Video Walkthrough
