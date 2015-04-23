@@ -51,6 +51,6 @@ Video Walkthrough
 
 ![Video Walkthrough](recording5.gif)
 
-![Video Walkthrough](recording6.gif)
+![Video Walkthrough](recording.gif)
 
 
