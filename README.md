@@ -8,6 +8,8 @@ I was trying to learn some new things in Swift and Xcode and add some new featur
 
 •  I learnt spring and fade animations and appied them into the modal.  
 
+•  I removed the clear button in Bill Amount Field.  
+
 •  I added Number of People field and Payment for Each person fields in the app. 
 
     •  By default, it displays 1. 
@@ -46,6 +48,9 @@ Completed user stories:
 Required User Stories:
 
 Video Walkthrough
+
 ![Video Walkthrough](recording5.gif)
+
 ![Video Walkthrough](recording6.gif)
+
 
