@@ -15,7 +15,7 @@ Other things I tried but failed:
 
 Video Walkthrough
 
-<recording9.gif>
+![Video Walkthrough](recording9.gif)
 
 
 
