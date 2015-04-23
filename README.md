@@ -15,7 +15,7 @@ Other things I tried but failed:
 
 Video Walkthrough
 
-recording9.gif
+<recording9.gif>
 
 
 **Last Time**
