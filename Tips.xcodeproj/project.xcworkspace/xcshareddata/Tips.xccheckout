@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>92E934D8-E7B2-4886-B733-D2ACF994BB4D</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>Tips</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>B00D3A9B05509951010F59EA7BFA1A7A32C730C4</key>
 		<string>https://github.com/roberkanho/Tips.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Tips.xcodeproj/project.xcworkspace</string>
+	<string>Tips.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>B00D3A9B05509951010F59EA7BFA1A7A32C730C4</key>
